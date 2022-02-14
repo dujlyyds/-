@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container.data-v-57280228 {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+}
+.today.data-v-57280228 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 34rpx;
+  width: 400rpx;
+  height: 80rpx;
+  border-radius: 40rpx;
+  color: #000;
+  line-height: 80rpx;
+  text-align: center;
+  margin: 0 auto;
+}
+.today .logo.data-v-57280228 {
+  width: 50rpx;
+  height: 50rpx;
+}
+.tag-wrapper-1.data-v-57280228 {
+  box-sizing: border-box;
+  margin: 0 auto;
+  margin-top: 100rpx;
+  border-radius: 16rpx;
+  background-color: #0fbd5b;
+  text-align: center;
+  height: 80rpx;
+  width: 400rpx;
+  font-weight: 700;
+  line-height: 80rpx;
+  font-size: 34rpx;
+  color: #ffffff;
+}
+

@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.headInfo.data-v-21bf4c21 {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  width: 100%;
+  height: 300rpx;
+  background-color: #E2EAF6;
+}
+.headInfo .head_img.data-v-21bf4c21 {
+  width: 120rpx;
+  border-radius: 50%;
+  margin-right: 30rpx;
+  margin: 100rpx;
+}
+.headInfo .name.data-v-21bf4c21 {
+  font-size: 34rpx;
+  color: #fc7203;
+}
+.map_container.data-v-21bf4c21 {
+  height: 300px;
+  width: 100%;
+}
+.map.data-v-21bf4c21 {
+  height: 100%;
+  width: 100%;
+}
+.grid.data-v-21bf4c21 {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.grid view.data-v-21bf4c21 {
+  width: 300rpx;
+  height: 300rpx;
+}
+
